@@ -1,7 +1,6 @@
-# 🎄 Advent of Code 2023 - Algorithm Course Final Assignment 🎄
+# 🎄 Advent of Code 2023 🎅
 
-Welcome to the final assignment for the Algorithm course in the iPSRS 2023 program! 
-This repository contains solutions to 12 problems from the 2023 Advent of Code by Eric Wastl. Each problem is solved in Python, and all functions are annotated with their time complexity.
+Welcome to the final assignment for the Algorithm course in the [iPSRS](https://www.master-photonics4security.eu/) 2023 program! This repository contains Python solutions to 12 selected problems from the 2023 [Advent of Code](https://adventofcode.com/) challenge by Eric Wastl. All functions are annotated with their time complexity.
 
 ## 📂 Directory Structure
 
